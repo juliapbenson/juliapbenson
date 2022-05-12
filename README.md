@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @juliapbenson
+- 👋 Hi, I’m Julia.
 - 👀 I’m interested in infrastructure as code, cloud security, and content marketing. 
 - 📫 How to reach me: https://www.linkedin.com/in/juliapbenson/
 
