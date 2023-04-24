@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Julia.
-- 👀 I’m interested in infrastructure as code, cloud security, and content marketing. 
+- 👀 I’m interested in infrastructure as code, DevOps, and cloud security.
 - 📫 How to reach me: https://www.linkedin.com/in/juliapbenson/
 
 <!---
